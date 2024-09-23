@@ -3,7 +3,7 @@ const { URL } = require('url');
 const HttpProxyAgent = require('http-proxy-agent');
 
 // URL of the Python proxy server running on Replit
-const proxyUrl = 'https://17cd3832-3a7f-4873-b68d-d8cb7ca09328-00-20e2xucf70dmz.worf.replit.dev/';
+const proxyUrl = 'https://ethanjmorton.github.io/FrognetPRMR/';
 
 // Configure the proxy agent
 const agent = new HttpProxyAgent(proxyUrl);
